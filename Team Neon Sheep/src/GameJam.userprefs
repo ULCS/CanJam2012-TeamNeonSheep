@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\scr_player.cs">
+    <Files>
+      <File FileName="Assets\Scripts\scr_player.cs" Line="105" Column="31" />
+      <File FileName="Assets\CScript_Movement.cs" Line="67" Column="19" />
+      <File FileName="Assets\Viking\CScript_Viking.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\scr_axe.cs" Line="8" Column="2" />
+      <File FileName="Assets\Scripts\scr_playerAxeThrow.cs" Line="83" Column="71" />
+      <File FileName="Assets\CScript_Fencing.cs" Line="101" Column="13" />
+      <File FileName="Assets\Scripts\scr_sheepSpawner.cs" Line="17" Column="29" />
+      <File FileName="Assets\Scripts\scr_vikingAxeThrow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\scr_playerLongJump.cs" Line="127" Column="24" />
+      <File FileName="Assets\ReturnToMainScene.cs" Line="20" Column="1" />
+      <File FileName="Assets\Viking\VikingDeath1.cs" Line="17" Column="1" />
+      <File FileName="Assets\Viking\Viking_Death2.cs" Line="18" Column="1" />
+      <File FileName="Assets\player_dodge1.cs" Line="16" Column="2" />
+      <File FileName="Assets\player_dodge2.cs" Line="17" Column="1" />
+      <File FileName="Assets\player_dodge3.cs" Line="4" Column="27" />
+      <File FileName="Assets\CScript_Start.cs" Line="11" Column="1" />
+      <File FileName="Assets\Scripts\cscript_hurdlePlayer.cs" Line="37" Column="18" />
+      <File FileName="Assets\Scripts\scr_sheep.cs" Line="19" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
